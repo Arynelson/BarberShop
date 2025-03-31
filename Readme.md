@@ -120,7 +120,7 @@ This is a fully offline-capable, authentication-protected management system for 
 
 ![inicio](https://github.com/Arynelson/BarberShop/tree/main/BarberShop/src/assets/print/inicio.png)
 
-![agenda](https://github.com/Arynelson/BarberShop/BarberShop/src/assets/print/agenda.jpeg)
+![agenda](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/agenda.jpeg)
 
 ![service](https://github.com/Arynelson/BarberShop/tree/main/BarberShop/src/assets/print/service.png)
 
