@@ -116,15 +116,15 @@ This is a fully offline-capable, authentication-protected management system for 
 
 ---
 
-![login](https://github.com/Arynelson/BarberShop/BarberShop/src/assets/print/login.png)
+![login](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/login.png).
 
-![inicio](https://github.com/Arynelson/BarberShop/tree/main/BarberShop/src/assets/print/inicio.png)
+![inicio](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/inicio.png)
 
 ![agenda](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/agenda.jpeg)
 
-![service](https://github.com/Arynelson/BarberShop/tree/main/BarberShop/src/assets/print/service.png)
+![service](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/service.png)
 
-![relatorio](https://github.com/Arynelson/BarberShop/tree/main/BarberShop/src/assets/print/relatorio.png)
+![relatorio](https://github.com/Arynelson/BarberShop/blob/main/BarberShop/src/assets/print/relatorio.png)
 
 
 ## ⚙️ Setup & Installation
